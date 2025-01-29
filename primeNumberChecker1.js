@@ -9,6 +9,3 @@ function solve(num) {
 
     console.log(isPrime);
 }
-
-
-solve(147);
